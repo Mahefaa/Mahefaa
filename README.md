@@ -21,8 +21,6 @@ Currently pursuing a Mastère Expert en Cybersécurité & Réseaux at **INGETIS,
 - [**cyber-red-teaming**](https://github.com/Mahefaa/cyber-red-teaming): Web exploitation (XSS, SQLi, IDOR) and custom Python recon scripts.
 
 ### ☁️ Cloud, DevOps & Development
-- [**cyber-aws-serverless**](https://github.com/Mahefaa/cyber-aws-serverless): Event-driven AWS architecture (Lambda, S3, API Gateway, CloudFormation).
-- [**cyber-secure-java-api**](https://github.com/Mahefaa/cyber-secure-java-api): Secure Spring Boot API with authentication and Docker containerization.
 - [**cyber-networking-configs**](https://github.com/Mahefaa/cyber-networking-configs): Cisco IOS Router-on-a-Stick and VLAN setups.
 
 ---
